@@ -1,3 +1,6 @@
 [submodule "turbin3-solana-starter"]
 	path = turbin3-solana-starter
 	url = https://github.com/GhostGamer6969/turbin3-solana-starter
+[submodule "gill-testing"]
+	path = gill-testing
+	url = https://github.com/GhostGamer6969/Turbin3-gill-sdk

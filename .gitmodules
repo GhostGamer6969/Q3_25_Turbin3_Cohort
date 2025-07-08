@@ -4,3 +4,6 @@
 [submodule "gill-testing"]
 	path = gill-testing
 	url = https://github.com/GhostGamer6969/Turbin3-gill-sdk
+[submodule "vault"]
+	path = vault
+	url = https://github.com/GhostGamer6969/Turbin3-vault

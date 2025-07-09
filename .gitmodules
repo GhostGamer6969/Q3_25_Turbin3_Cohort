@@ -7,3 +7,6 @@
 [submodule "vault"]
 	path = vault
 	url = https://github.com/GhostGamer6969/Turbin3-vault
+[submodule "escrow"]
+	path = escrow
+	url = https://github.com/GhostGamer6969/Turbin3-Escrow

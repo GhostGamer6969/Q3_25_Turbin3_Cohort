@@ -12,4 +12,7 @@
 	url = https://github.com/GhostGamer6969/Turbin3-Escrow
 [submodule "AMM"]
 	path = AMM
-	url = https://github.com/GhostGamer6969/Trubin3-AMM.git
+	url = https://github.com/GhostGamer6969/Turbin3-AMM.git
+[submodule "anchor-nft-staking"]
+	path = anchor-nft-staking
+	url = https://github.com/GhostGamer6969/Turbin3-nft-staking.git

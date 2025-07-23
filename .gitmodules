@@ -19,3 +19,6 @@
 [submodule "anchor-marketplace"]
 	path = anchor-marketplace
 	url = https://github.com/GhostGamer6969/Turbin3-anchor-marketplace.git
+[submodule "anchor-dice"]
+	path = anchor-dice
+	url = https://github.com/GhostGamer6969/anchor-dice-game.git

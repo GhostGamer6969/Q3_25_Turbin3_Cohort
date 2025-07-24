@@ -22,3 +22,6 @@
 [submodule "anchor-dice"]
 	path = anchor-dice
 	url = https://github.com/GhostGamer6969/anchor-dice-game.git
+[submodule "anchor-counter-er"]
+	path = anchor-counter-er
+	url = https://github.com/GhostGamer6969/Turbin3-anchor-coutner-er.git
